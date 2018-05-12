@@ -15,6 +15,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a35785
     - http://www.gutenberg.org/browse/authors/f#a35786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46304#The-Silent-RiflemanA-tale-of-the-Texan-prairies
 gutenberg_issued: '2014-07-16'
 gutenberg_type: Text
 identifiers:

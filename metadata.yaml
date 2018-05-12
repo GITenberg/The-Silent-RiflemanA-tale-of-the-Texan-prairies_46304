@@ -1,0 +1,32 @@
+_repo: The-Silent-RiflemanA-tale-of-the-Texan-prairies_46304
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46304-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Herbert, Henry William
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '8846'
+    url: http://www.gutenberg.org/2009/agents/8846
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Henry_William_Herbert
+    - http://www.gutenberg.org/browse/authors/d#a35785
+    - http://www.gutenberg.org/browse/authors/f#a35786
+description: ''
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Jackson's novels.
+subjects:
+- !lcsh 'Frontier and pioneer life -- Texas -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Silent Rifleman! A tale of the Texan prairies
+url: http://www.gutenberg.org/ebooks/46304
